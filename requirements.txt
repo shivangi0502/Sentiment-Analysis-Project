@@ -1,0 +1,11 @@
+datasets
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+wordcloud
+transformers
+streamlit
+gensim
